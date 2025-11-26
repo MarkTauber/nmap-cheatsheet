@@ -1,6 +1,24 @@
 # nmap cheatsheet
 Не нашёл - сделал. 
 
+<details>
+  <summary>Тёмная тема</summary>
+  
+ ![nmap cheatsheet](nmap.cheatsheet.ru.dark.png)
+</details>
+
+<details>
+  <summary>Полностью тёмная тема</summary>
+  
+ ![nmap cheatsheet](nmap.cheatsheet.ru.dark_full.png)
+</details>
+
+<details>
+  <summary>Светлая тема</summary>
+  
+ ![nmap cheatsheet](nmap.cheatsheet.ru.png)
+</details>
+
 ### Cheatsheet map разбит на 11 блоков:
 
 - **ОСНОВЫ**
@@ -33,25 +51,8 @@
 - **Светлая**
   - `nmap.cheatsheet.ru.png` - для мазохистов 
 
-<details>
-  <summary>Тёмная тема</summary>
-  
- ![nmap cheatsheet](nmap.cheatsheet.ru.dark.png)
-</details>
 
-<details>
-  <summary>Полностью тёмная тема</summary>
-  
- ![nmap cheatsheet](nmap.cheatsheet.ru.dark_full.png)
-</details>
-
-<details>
-  <summary>Светлая тема</summary>
-  
- ![nmap cheatsheet](nmap.cheatsheet.ru.png)
-</details>
-
-В будущем будет ещё английская версия.
+В будущем добавлю английскую версию.
 
 <sub><sup>Да, это почти вся документация.</sub></sup>
 <sub><sup>И нет, мне не лень.</sub></sup>
